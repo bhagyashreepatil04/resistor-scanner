@@ -20,27 +20,32 @@ AI Resistor Scanner is a web-based application that uses Deep Learning and Compu
 ## Technologies Used
 
 ### Programming Languages
+
 - Python
 - JavaScript
 - HTML5
 - CSS3
 
 ### Frontend
+
 - React.js
 - HTML5
 - CSS3
 
 ### Backend
+
 - Node.js
 - Express.js
 
 ### AI & Machine Learning
+
 - TensorFlow
 - TensorFlow Lite
 - Computer Vision
 - Deep Learning
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
@@ -73,7 +78,8 @@ resistor-scanner/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Prema852/resistor-scanner.git
+git clone https://github.com/YOUR-USERNAME/resistor-scanner.git
+cd resistor-scanner
 ```
 
 ### Backend Setup
@@ -86,6 +92,8 @@ npm start
 
 ### Frontend Setup
 
+Open a new terminal:
+
 ```bash
 cd frontend
 npm install
@@ -96,7 +104,7 @@ npm run dev
 
 ## Screenshots
 
-> Add screenshots of the following pages inside a **screenshots** folder.
+Add screenshots of the application inside a **screenshots** folder.
 
 - Home Page
 - Image Upload Page
@@ -125,21 +133,17 @@ Example:
 
 ## Contributors
 
+This project was developed as a collaborative academic project.
+
 - **Prema Hiremath**
-- **KAVANAL1** *(Team Member)*
+- **Bhagyashree B Patil**
+- **KAVANAL1**
+- **Anish**
+
+All team members contributed to the development, implementation, testing, and documentation of the project.
 
 ---
 
 ## License
 
 This project is developed for educational and research purposes.
-
----
-
-## Contact
-
-**Prema Hiremath**
-
-GitHub: https://github.com/Prema852
-
-LinkedIn: *(Add your LinkedIn profile link here)*
