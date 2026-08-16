@@ -78,7 +78,7 @@ resistor-scanner/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/resistor-scanner.git
+git clone https://github.com/bhagyashreepatil04/resistor-scanner.git
 cd resistor-scanner
 ```
 
