@@ -1,0 +1,22 @@
+node_modules/
+venv/
+
+# Node
+node_modules/
+
+# Python virtual environment
+backend/venv/
+
+# Build folder (Vite output)
+frontend/dist/
+
+# Uploaded images (temporary)
+backend/uploads/
+
+# Environment variables
+frontend/.env
+backend/.env
+
+# OS files
+.DS_Store
+Thumbs.db

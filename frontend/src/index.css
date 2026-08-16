@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: "Times New Roman", serif;
+  background: #fff;
+}
+
+.header {
+  background: #8000ff;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.preview-img {
+  width: 350px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.result-box {
+  margin: 20px auto;
+  background: #f8f8f8;
+  padding: 20px;
+  width: 350px;
+  border-radius: 10px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.btn-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background: #8000ff;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn-upload {
+  background: green;
+  margin-top: 20px;
+  padding: 14px 30px;
+  font-size: 18px;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Camera UI */
+.camera-box {
+  margin-top: 20px;
+}
+
+.camera-feed {
+  width: 350px;
+  border-radius: 10px;
+}
+
+.capture, .close {
+  margin: 10px;
+  padding: 10px 20px;
+  background: #8000ff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
